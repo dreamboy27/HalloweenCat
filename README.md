@@ -1,8 +1,10 @@
 # HalloweenCat 
 
 ## Giới thiệu
+Add
+Người chơi sẽ được hóa thân thành Hogwarts
 Game được clone lại từ Halloween Doodle của Google.
-Người chơi sẽ được hóa thân thành Hogwarts Cat (một con mèo biết dùng phép thuật) phải đối mặt với rất nhiều quái vật.
+ Cat (một con mèo biết dùng phép thuật) phải đối mặt với rất nhiều quái vật.
 
 ## Hướng dẫn cài đặt 
 Yêu cầu dùng CodeBlocks có các thư viện SDL2: ```SDL2```, ```SDL2-image```, ```SDL2-mixer```, ```SDL2-ttf```
